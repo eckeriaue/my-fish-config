@@ -1,0 +1,2 @@
+su
+pamac install fastfetch
