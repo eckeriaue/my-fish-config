@@ -1,2 +1,1 @@
-su
-pamac install fastfetch
+sudo pamac install fastfetch
