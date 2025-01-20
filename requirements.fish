@@ -1,1 +1,1 @@
-sudo pamac install fastfetch
+sudo apt install neofetch

@@ -1,5 +1,5 @@
 if status is-interactive
     alias su='sudo fish'
-    fastfetch
+    neofetch
     # Commands to run in interactive sessions can go here
 end
