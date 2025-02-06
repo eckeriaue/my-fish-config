@@ -1,5 +1,6 @@
 if status is-interactive
     alias su='sudo fish'
+    alias copy="xclip -selection clipboard"
     fastfetch
     # Commands to run in interactive sessions can go here
 end
